@@ -1,11 +1,11 @@
-#BREAKOUT SDL PROJEKT
+# BREAKOUT SDL PROJEKT
 
 Breakout je arkádová video hra, kterou vyvíjela Atari, Inc. a vydalají v roce 1976.
 
 Tento projekt je simulace této hry, vyvíjená v jazyce C s knihovnami SDL.
 Hra má úvodní nabídku, kde můžete hru spustit, nastavit si hru a ukončit ji.
 
-###Hra
+### Hra
 
 Pomocí šípek doprava a doleva posunujete pádlo.
 Odrážíte pomocí pádla míček, když vám míček spadne, ztrácíte život.
@@ -14,16 +14,16 @@ Vyhráváte, pokud zničíté všechny bloky.
 Prohráváte, pokud příjdete o všechny životy.
 Po ukončení hry se vám uloží nejvyšší skóre.
 
-###Nastavení
+### Nastavení
 
 V nastavení, lze měnit rychlost míčku a nechat si vygenerovat novou mapu.
 
-###Exit
+### Exit
 
 Ukončení hry, nebo pomocí klávesy ESC, se kterou se může vracet také v Menu zpět.
 
 
-##Install
+## Install
 
 Je potřeba mít gcc
 Nainstalované SDL, SDL_ttf a SDL2_gfxPrimitives
